@@ -10,7 +10,7 @@
   
   
   <script src="//cdnjs.loli.net/ajax/libs/popper.js/1.11.0/umd/popper.min.js"></script>
-  <script src="//cdnjs.loli.net/ajax/libs/bootstrap/4.0.0-beta/js/bootstrap.min.js"></script>
+  <script src="//cdnjs.loli.net/ajax/libs/twitter-bootstrap/4.0.0-beta/js/bootstrap.min.js"></script>
   <script src="//cdnjs.loli.net/ajax/libs/Swiper/4.0.6/js/swiper.min.js"></script>  
   <script>
     $(".carousel").on("touchstart", function(event){
